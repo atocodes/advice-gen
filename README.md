@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Advice Gen Repo](https://github.com/atocodes/advice-gen)
+- Live Site URL: [Advice Gen Web APp](https://atocodes.github.io/advice-gen/)
 
 ### Built with
 
